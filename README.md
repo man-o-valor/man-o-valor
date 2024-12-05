@@ -43,6 +43,11 @@ Hello! My name is Man-o-Valor, but you can call me Mov. I make games and draw pi
 | <img src="https://github.com/man-o-valor/man-o-valor/blob/main/discord.png?raw=true" width="16" height="12" alt="Discord"> | Discord Tag: [@man_o_valor](https://discord.com) |
 | <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="20" height="10" alt="Youtube"> | Youtube Channel: https://youtube.com/@man-o-valor |
 
+---
+
+[![Mov's stats](https://github-readme-stats.vercel.app/api?username=man-o-valor&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
+
+^ I'm working on it, okay? This is only the public repositories :P
 
 <!---
 man-o-valor/man-o-valor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
