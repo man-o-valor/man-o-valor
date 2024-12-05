@@ -28,7 +28,7 @@ Hello! My name is Man-o-Valor, but you can call me Mov. I make games and draw pi
 - I am MALE and use He/Him Pronouns ♂️👍
 - I am CISGENDER and HETEROSEXUAL<sup>1</sup> 💞👌
 - I am a MINOR 🔞😱<sup>2 3</sup>
-- coming soon? if you are seeing this then you're cool
+- I am an AMERICAN <img src="https://github.com/twitter/twemoji/blob/master/assets/72x72/1f1fa-1f1f8.png" width="20" height="20" alt="American Flag"> 🦅
 
 
 **footnote zone :0**<br>
