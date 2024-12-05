@@ -38,8 +38,10 @@ Hello! My name is Man-o-Valor, but you can call me Mov. I make games and draw pi
 | Find Me |
 | :--- |
 
-<img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="20" height="10" alt="Gmail"> Business Email: man.o.valor.train@gmail.com<br>
-<img src="https://github.com/man-o-valor/man-o-valor/blob/main/discord.png?raw=true" width="18" height="20" alt="Discord"> Discord Tag: @man_o_valor
+| <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="20" height="10" alt="Gmail"> | Business Email: man.o.valor.train@gmail.com |
+| :---: | :--- |
+| <img src="https://github.com/man-o-valor/man-o-valor/blob/main/discord.png?raw=true" width="16" height="12" alt="Discord"> | Discord Tag: @man_o_valor |
+
 
 <!---
 man-o-valor/man-o-valor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
