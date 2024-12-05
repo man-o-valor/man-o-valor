@@ -28,7 +28,7 @@ Hello! My name is Man-o-Valor, but you can call me Mov. I make games and draw pi
 - I am MALE and use He/Him Pronouns ♂️👍
 - I am CISGENDER and HETEROSEXUAL<sup>1</sup> 💞👌
 - I am a MINOR 🔞😱<sup>2 3</sup>
--
+- coming soon? if you are seeing this then you're cool
 
 
 **footnote zone :0**<br>
