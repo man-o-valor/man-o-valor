@@ -5,6 +5,7 @@
 - Typically wears purple, which also complements his eye, inner ear, and tongue color
 - Canonically quite strong but don't feel pressured to draw something if you can't ofc
 - Not technically a furry, but drawing him is similar enough
+
 **More personality things:**
 - Super friendly guy
 - He's a little aggressive and might make more introverted people slightly uncomfortable on purpose
