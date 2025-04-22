@@ -15,4 +15,5 @@
 - basically is always smirking
 - literally embodies the concept of confidence
 
-<img src="https://github.com/man-o-valor/man-o-valor/blob/main/chars/kemper/kemperhorndiagram.png?raw=true" width="100" height="100" alt="Horn Diagram">
+<img src="https://github.com/man-o-valor/man-o-valor/blob/main/chars/kemper/kemperhorndiagram.png?raw=true" width="342" height="342" alt="Horn Diagram">
+<img src="https://github.com/man-o-valor/man-o-valor/blob/main/chars/kemper/originalkemper.png?raw=true" width="110" height="266" alt="Original Kemper image">
