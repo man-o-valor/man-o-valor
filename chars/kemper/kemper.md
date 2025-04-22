@@ -15,9 +15,17 @@
 - basically is always smirking
 - literally embodies the concept of confidence
 
-| References |
+| References (wow) |
 | :--- |
 
 | <img src="https://github.com/man-o-valor/man-o-valor/blob/main/chars/kemper/kemperhorndiagram.png?raw=true" width="342" height="342" alt="Horn Diagram"> | Horn Diagram |
 | :---: | :--- |
 | <img src="https://github.com/man-o-valor/man-o-valor/blob/main/chars/kemper/originalkemper.png?raw=true" width="110" height="266" alt="Original Kemper image"> | Original Kemper image (very old) |
+| :---: | :--- |
+| <img src="https://github.com/man-o-valor/man-o-valor/blob/main/chars/kemper/angelboy_2010skemper.png?raw=true" width="110" height="266" alt="Original Kemper image"> | Art by @angelboy_2010 on Discord |
+| :---: | :--- |
+| <img src="https://github.com/man-o-valor/man-o-valor/blob/main/chars/kemper/batty_.skemper.png?raw=true" width="110" height="266" alt="Original Kemper image"> | Art by @batty_. on Discord |
+| :---: | :--- |
+| <img src="https://github.com/man-o-valor/man-o-valor/blob/main/chars/kemper/_waynx_0skemper.png?raw=true" width="110" height="266" alt="Original Kemper image"> | Art by @_waynx_0 on Discord |
+| :---: | :--- |
+| <img src="https://github.com/man-o-valor/man-o-valor/blob/main/chars/kemper/spacinskemper.png?raw=true" width="110" height="266" alt="Original Kemper image"> | Art by @spacin on Discord |
