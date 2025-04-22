@@ -14,3 +14,5 @@
 - He won't stay mad at anyone or at least will never stop joking with them
 - basically is always smirking
 - literally embodies the concept of confidence
+
+<img src="https://github.com/man-o-valor/man-o-valor/blob/main/chars/kemper/kemperhorndiagram.png?raw=true" width="100" height="100" alt="Horn Diagram">
