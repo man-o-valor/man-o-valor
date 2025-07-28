@@ -45,9 +45,7 @@ Hello! My name is Man-o-Valor, but you can call me Mov. I make games and draw pi
 
 ---
 
-[![Mov's stats](https://github-readme-stats.vercel.app/api?username=man-o-valor&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-^ I'm working on it, okay? This is only the public repositories :P
+[![Mov's stats](https://github-readme-stats.vercel.app/api?username=man-o-valor&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) ![wow](https://github-readme-stats.hackclub.dev/api/wakatime?username=10819&api_domain=hackatime.hackclub.com&&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8&theme=vue-dark)
 
 <!---
 man-o-valor/man-o-valor is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
