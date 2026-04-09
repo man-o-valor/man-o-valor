@@ -18,9 +18,9 @@
 ⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️⛓️
 ```
 
-Hello! My name is Man-o-Valor, but you can call me Mov. I make games and draw pictures. I've been coding since I was about seven years old, and now you have this handy README so you can find out more!  
+Hello! My name is Man-o-Valor, but you can call me Mov. I make games and draw pictures.
   
-♂️ He/him appreciated, they/them is also fine
+♂️ He/him appreciated
 
 ---
 
@@ -30,7 +30,6 @@ Hello! My name is Man-o-Valor, but you can call me Mov. I make games and draw pi
 | <img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="20" height="10" alt="Gmail"> | Business Email: man.o.valor.train@gmail.com |
 | :---: | :--- |
 | <img src="https://github.com/man-o-valor/man-o-valor/blob/main/discord.png?raw=true" width="16" height="12" alt="Discord"> | Discord Tag: [@man_o_valor](https://discord.com) |
-| <img src="https://upload.wikimedia.org/wikipedia/commons/0/09/YouTube_full-color_icon_%282017%29.svg" width="20" height="10" alt="Youtube"> | Youtube Channel: https://youtube.com/@man-o-valor |
 
 ---
 
